@@ -11,3 +11,4 @@ ruamel.yaml>=0.16,<0.17
 sigmatools==0.18.1
 thehive4py>=1.6,<1.7
 Werkzeug>=2.2.3
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
